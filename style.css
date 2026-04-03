@@ -102,3 +102,6 @@
                 transform: translateY(0);
             }
         }
+        .footerDiv{
+            background-color: gray;
+        }
